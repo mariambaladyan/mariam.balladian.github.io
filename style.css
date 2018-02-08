@@ -1,0 +1,35 @@
+body {
+	background: white;
+}
+h1 {
+	text-align: center;
+}
+.img {
+	text-align: center;
+}
+h3 {
+	text-align: center;
+}
+.dv_2 {
+	background-color: green;
+	width: 50%;
+}
+.dv_1 {
+	background-color: gray;
+	width: 50%;
+}
+#id_1 {
+	color: gray;
+}
+
+#id_2 {
+	color: green;
+}
+
+#p_1 {
+	font-size: 18px;
+	font-family: Castellar;
+}
+#id_3 {
+font-family: Book Antiqua
+}
